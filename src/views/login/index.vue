@@ -113,6 +113,7 @@ export default {
     }
   },
   watch: {
+    // 监视路由
     $route: {
       handler: function(route) {
         const query = route.query
