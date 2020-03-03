@@ -53,6 +53,7 @@ export default {
     }
   },
   methods: {
+    // icon
     generateIconCode(symbol) {
       return `<svg-icon icon-class="${symbol}" />`
     },
