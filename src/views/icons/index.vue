@@ -1,6 +1,5 @@
 <template>
   <div class="icons-container">
-    <!-- 测试 -->
     <aside>
       <a href="https://panjiachen.github.io/vue-element-admin-site/guide/advanced/icon.html" target="_blank">Add and use
       </a>
